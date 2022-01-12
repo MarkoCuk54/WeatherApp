@@ -1,4 +1,4 @@
-# WeatherApp
+# WeatherApp :cloud_with_snow:
 
 :sun_behind_small_cloud: Simple weather app using HTML, CSS, and JavaScript :sun_behind_small_cloud:
 
